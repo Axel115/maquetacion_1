@@ -1,2 +1,2 @@
 # maquetacion_1
-Actividad de Front, maquetacion con Flexbox
+Actividad de FrontEnd, maquetacion con Flexbox
